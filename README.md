@@ -29,6 +29,6 @@ A simple command-line Roulette game implemented in C++.
 
 
 
-- Created by Dobree12.
+  ##Created by Dobree12.
 
 Feel free to contribute or customize the game to your liking!
